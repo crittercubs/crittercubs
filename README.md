@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://files.catbox.moe/5vcday.jpg" />
+  <img src="https://files.catbox.moe/61fls2.jpg" />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wingedproe&color=blue" />
-</p>
+<p align="center"> hi i love izuku midoriya
